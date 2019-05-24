@@ -4,7 +4,10 @@
 ## Bio
 email: limh5@rpi.edu
 
-![BEautiful self portrait] 
+![Beautiful self portrait](me.jpg)
+
+github account: limh0228
+mattermost: jfhfbm
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
