@@ -13,4 +13,4 @@
  > This article emphasizes the importance of information freedom. When certain organizations and corporations own intellectual properties or ideas, they are given legal license to bully small players in innovation. This impedes the development of technology, and allows well-funded players to use their ownership as an excuse to squeeze profit out of an unfair system that puts individuals at a disadvantage. It seems that the driver for ownership is money, not the progression and distribution of technology. Not such a noble cause.
 
 ## Tree Man Page
-![treeMan](treeman.png)
+![treeMan](../../treeman.png)
