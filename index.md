@@ -1,8 +1,10 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Hannah Lim
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+email: limh5@rpi.edu
+
+![BEautiful self portrait] 
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
