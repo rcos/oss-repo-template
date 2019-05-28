@@ -14,3 +14,14 @@
 
 ## Tree Man Page
 ![treeMan](../../treeman.png)
+
+## Regular Expressions Problems
+![problem 1](../../regex1.png)
+![problem 2](../../regex2.png)
+![problem 3](../../regex3.png)
+![problem 4](../../regex4.png)
+![problem 5](../../regex5.png)
+![problem 6](../../regex6.png)
+![problem 7](../../regex7.png)
+
+## Regular Expression Corssword Problems
