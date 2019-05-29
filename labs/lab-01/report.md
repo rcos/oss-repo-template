@@ -25,3 +25,7 @@
 ![problem 7](../../regex7.png)
 
 ## Regular Expression Corssword Problems
+![crossword completed](../../crossword.png)
+
+## Blockly Problem
+![blocky problems completed](../../blocky.png)
