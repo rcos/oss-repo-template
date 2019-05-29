@@ -28,4 +28,7 @@
 ![crossword completed](../../crossword.png)
 
 ## Blockly Problem
-![blocky problems completed](../../blocky.png)
+![blocky problems completed](../../Blocky.png)
+
+## Reflection
+One Open Source project I'm interested in is called OpenStreetMap. It's a webapp that creates a map of data about roads, trails, cafés, railway stations, and much more, all over the world. They do this using public contributions, aerial imagery, GPS devices, and low-tech field maps to verify that OSM is accurate and up to date. This Open Source project looks interesting because I think I can use it for my RCOS project, the Forge Machines map.
