@@ -1,8 +1,11 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Serena Chen
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Hi, I'm a third year computer science student at RPI!
+#### Email: chens29@rpi.edu
+#### GitHub: SerenaChen1
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
