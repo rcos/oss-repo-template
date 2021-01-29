@@ -14,3 +14,21 @@ Jesse Jordan used Microsoft's network file system to improve on RPI's search eng
 
 ### Directory Structure
 ![Tree](images/tree.jpg)
+
+### Regex Practice
+![Regex1](images/regex1.jpg)
+![Regex2](images/regex2.jpg)
+![Regex3](images/regex3.jpg)
+![Regex4](images/regex4.jpg)
+![Regex5](images/regex5.jpg)
+![Regex6](images/regex6.jpg)
+![Regex7](images/regex7.jpg)
+
+### Regex Crosswords
+![Crossword1](images/crossword1.jpg)
+![Crossword2](images/crossword2.jpg)
+![Crossword3](images/crossword3.jpg)
+![Crossword4](images/crossword4.jpg)
+
+### Blockly Maze
+![Blockly](images/blockly.jpg)
