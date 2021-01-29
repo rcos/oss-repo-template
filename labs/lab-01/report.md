@@ -1,5 +1,8 @@
 # Lab 01 Report - Introduction to Open Source Software
 
+### Message in general Discord channel
+![Discord](images/discord.jpg)
+
 ### Smart Questions How to Ask Questions the Smart Way
 #### More Suggestions
 1. Compile all your questions beforehand, so when you have a chance to meet with whoever's helping you, you can address them all at once. This will also prevent you from forgetting any questions you had.
