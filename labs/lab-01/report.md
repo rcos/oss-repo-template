@@ -12,3 +12,5 @@
 ### Free Culture Chapter 3
 Jesse Jordan used Microsoft's network file system to improve on RPI's search engine. The directory of this search engine supported all types of different files, but a fraction of them were music files. Jesse didn't intend for there to be so many music files, nor did he play any role in users adding music files. However, he was sued by the RIAA (Recording Industry Association of America) for violating copyright laws. They claimed that by operating his network, Jesse was pirating their music. It seems like a very unfair lawsuit, and the RIAA seemed to only be interested in taking away Jesse's money and platform. It's kind of unfortunate that large companies have so much power, and yet they still choose to pick fights with people who don't have the same amount of power. In fact, this happened to 3 other students as well. 
 
+### Directory Structure
+![Tree](images/tree.jpg)
