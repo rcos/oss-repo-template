@@ -1,8 +1,13 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## (( Jin Hong ))
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+(( Hi! My name is Jin Hong and I am a senior CS student. ))
+
+![My Picture](profile_picture.jpg)
+
+## Discord
+(( NA ))
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
