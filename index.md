@@ -4,7 +4,7 @@
 ## Bio
 (( Hi! My name is Jin Hong and I am a senior CS student. ))
 
-![My Picture](profile_picture.jpg)
+![My Picture](labs/lab-01/profile_picture.jpg)
 
 ## Discord
 (( NA ))
