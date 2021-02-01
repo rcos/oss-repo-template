@@ -30,7 +30,7 @@ My first impression after reading this chapter was how illogical the laws regard
 ![Crossword4](crosswordProb4.JPG)
 
 # 5
-![Blocky](blocky.JPG.JPG)
+![Blocky](blocky.JPG)
 
 # 6
 A project that interests me is creating a website where NBA players are ranked based on their current season stats. Basic stats such as points, rebounds and assists would be used but more advanced stats like PER and VORP would be used as well. If I were to go about creating this project I would probably use Python as the main language with Flask used as the web development framework. Some open source projects that may be used are Mimesis and bokeh. Mimesis would be used to add dummy data and bokeh would be used to visualize specific data about the players.
