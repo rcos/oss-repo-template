@@ -23,3 +23,10 @@ After reading chapter 3 of Free Culture, it became clear to me the importance of
 3. ![Problem 3](screenshots/crossword_3.png)
 4. ![Problem 4](screenshots/crossword_4.png)
 
+## Blocky
+### Maze solution in Blocky
+![blocky maze demolished](screenshots/blocky1.png)
+I solved this blocky maze by making my astronaut make every possible right turn, if there was a turn to be made, and move forward otherwise. They eventually made their way right to the goal!
+
+## Reflection
+I have had interest in numerous open source projects. 2 of those projects are flutter, the cross platform GUI development project and Godot, an open source game engine. The way I went about finding these open source projects are from prior knowledge of using these programs. After using flutter and godot, I was able to see that these were open source projects and I could contribute to advance its development. To find more open source projects that I may be interested in working on, I ma going through a list of known open source projects, checking out their github repositiories, and reading through their contribution and building guide which will help me get a look of what the project's environment is like. It is very important to look through the contribution guide of open source projects because following that guide is the only way any code you write on a project will be accepted to the stable build.
