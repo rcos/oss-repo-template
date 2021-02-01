@@ -15,4 +15,24 @@ My first impression after reading this chapter was how illogical the laws regard
 # 3
 ![Discord](tree_man.png)
 
-#4
+# 4
+![Regex1](regexProb1.JPG)
+![Regex2](regexProb2.JPG)
+![Regex3](regexProb3.JPG)
+![Regex4](regexProb4.JPG)
+![Regex5](regexProb5.JPG)
+![Regex6](regexProb6.JPG)
+![Regex7](regexProb7.JPG)
+
+![Crossword1](crosswordProb1.JPG.JPG)
+![Crossword2](crosswordProb2.JPG.JPG)
+![Crossword3](crosswordProb3.JPG.JPG)
+![Crossword4](crosswordProb4.JPG.JPG)
+
+# 5
+
+
+# 6
+A project that interests me is creating a website where NBA players are ranked based on their current season stats. Basic stats such as points, rebounds and assists would be used but more advanced stats like PER and VORP would be used as well. If I were to go about creating this project I would probably use Python as the main language with Flask used as the web development framework. Some open source projects that may be used are Mimesis and bokeh. Mimesis would be used to add dummy data and bokeh would be used to visualize specific data about the players.
+
+
