@@ -2,5 +2,5 @@
 
 
 # 0
-[Discord](discord.JPG)
+![Discord](discord.JPG)
 
