@@ -2,4 +2,4 @@
 
 
 # 0
-[](discord.JPG)
+[](discord.jpg)
