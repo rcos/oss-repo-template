@@ -4,6 +4,7 @@
 ### github account: TheCovenant
 ### discord handle: Kovenant (Kovenant#0067)
 
+![Covenant](cov.jpg)
 
 
 ### 2 - Reading Assignments
@@ -19,7 +20,7 @@ It was very interesting to read about Jesse's experience with his search engine.
 ![Manpage](Manpage.PNG)
 
 ### 4 - Regex
-![Regex](Regex.PNG)
+![Regex](regex7.PNG)
 
 ### 5 - Blocky
 ![blocky](blocky.PNG)
