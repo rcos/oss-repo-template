@@ -2,5 +2,5 @@
 
 
 # 0
-[](discord.jpg)
-[](profile_picture.jpg)
+[Discord](discord.JPG)
+
