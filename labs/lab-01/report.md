@@ -3,3 +3,4 @@
 
 # 0
 [](discord.jpg)
+[](profile_picture.jpg)
