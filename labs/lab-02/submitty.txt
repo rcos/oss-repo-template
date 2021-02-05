@@ -1,0 +1,2 @@
+Link to Lab 2 Markdown:
+https://github.com/sacrael/oss-repo-template/blob/master/labs/lab-02/lab2.md
