@@ -2,6 +2,9 @@
 ### Abdul-Muiz Yusuff
 
 ## Part 1 - Documentation
+1. Wiki link: https://github.com/sacrael/oss-repo-template/wiki
+2. Latex Formula #1: \sqrt[]{2}^{\sqrt[]{2}^{\sqrt[]{2}^{\sqrt[]{2...}}}}
+3. 
 
 ## Part 2 - Community
 ## Project troy-offcampus-housing - (github.com/rcos/rpi-offcampus-housing)
