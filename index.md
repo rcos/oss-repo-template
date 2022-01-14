@@ -1,7 +1,6 @@
 # Open Source Software - Spring 2022
 ## Brandon Red
 
-## About Me
 Major: Computer and Systems Engineering  
 Class of 2022  
 Email: redb@rpi.edu  
