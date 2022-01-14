@@ -6,7 +6,7 @@ Major: Computer and Systems Engineering
 Class of 2022
 Email: redb@rpi.edu
 Github Account: brandon-red
-![Image of Brandon Red](labs/lab-01/Images/redb-picture.jpg)
+<img src="labs/lab-01/Images/redb-picture.jpg" height="300">
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
