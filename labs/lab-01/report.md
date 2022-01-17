@@ -40,4 +40,7 @@ If you have time try looking at the code as a whole and suggest work arounds or 
 ## Blockly
 <img src="https://user-images.githubusercontent.com/85704037/149671208-e137b82e-77a8-405d-8635-c7e0b9e7e58f.JPG" width="500"/>
 
+## Open Source project
+
+An open source project I would like to build would a web application where users can log in and create a player profile and interact with other athletes. On this site you can add different events that you competed in(i.e. 100m, bench press, vertical jump) and compare with their athletes on the site. You will be able to see how you compare to other athletes in the same sport as you or same age bracket. I would like there to be visual graphs that show the comparisons of the athletes stats as well as a page that shows all the athletes and can be filtered by name and/or event. I would like to add a way to follow athletes as well and for there to be a page that shows updates to those accounts that you follow. It will have some sort of frontend framework, a database and an API to retrieve information from that database.
 
