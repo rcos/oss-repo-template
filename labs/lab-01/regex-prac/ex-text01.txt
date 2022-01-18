@@ -1,0 +1,5 @@
+random words to test REGEX and grep commands
+im not really sure what to put here 
+but were going to repeat the word and to see
+how many times the command can find it
+and yeah thats what were going to do
