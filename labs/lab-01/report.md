@@ -23,12 +23,24 @@
 
 ## Step 3 - Linux
 
+[tree](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/tree.png)
+
 ## Step 4 - Regex
 
+[1](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/1.png)
+[2](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/2.png)
+[3](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/3.png)
+[4](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/4.png)
+[5](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/5.png)
+[6](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/6.png)
+[7](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/regex_problems/7.png)
+
 ## Step 5 - Play with Blockly
+
+[blockly](https://raw.githubusercontent.com/callumhauber/CSCI-4470/master/labs/lab-01/images/blockly.png)
 
 ## Step 6 - Reflection
 
 [VMAF](https://github.com/Netflix/vmaf) could be an interesting open source project to evaluate.
 
-One project that would interest me is 
+One project that would interest me is making some kind of smart home system. Something using easily obtainable computers like Arduinos or Raspberry Pi's (and Pi Zeros) and sensors from suppliers to make simple sensors that could be integrated into a home server/website for a custom interface. For example, having multiple temperature sensors around the house to act as a thermostat with one controlling the heating/cooling. Some custom webcams to watch dogs, front doors and more.
