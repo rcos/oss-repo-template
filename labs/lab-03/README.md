@@ -10,6 +10,7 @@ $$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}\cdot\cdot\cdot}}}$$
 ```
 
 result:
+![lab3](https://user-images.githubusercontent.com/29618911/151914930-92848cb1-5b8e-4f85-a307-047c173e0547.png)
 
 ```
 $\begin{bmatrix}
@@ -21,6 +22,7 @@ $\begin{bmatrix}
 ```
 
 result (also including the square version):
+![image](https://user-images.githubusercontent.com/29618911/151914942-6522ec34-15c3-4c43-8bd1-772f832e0453.png)
 
 
 ## Part 2
@@ -33,17 +35,22 @@ result (also including the square version):
 
 ### Gitstats
 ARAS:
+![image](https://user-images.githubusercontent.com/29618911/151914958-ee479cea-5648-42b7-a9be-c6fc597e56c8.png)
 
 
 Article Aggregator:
+![image](https://user-images.githubusercontent.com/29618911/151914966-87458920-ac27-4894-aa34-aff6442a69d3.png)
 
 
 AstroIQ:
+![image](https://user-images.githubusercontent.com/29618911/151914970-262508a0-27ee-47d6-97b9-75f15a33d627.png)
 
 
 aris:
+![image](https://user-images.githubusercontent.com/29618911/151914973-2953ea6f-4951-4585-a0c4-5e5a3a77c81f.png)
 
 
 ### Gource
 
 ArticleAggregator:
+![image](https://user-images.githubusercontent.com/29618911/151914984-2a2e2827-752b-416a-8599-b71b6e252817.png)
