@@ -26,4 +26,5 @@ https://github.com/schnur/RPIduino
 | https://github.com/rcos/telescope | Yes  | MIT License |
 | https://github.com/sirmammingtonham/smartrider | Yes  | GPL-3.0 |
 
+## Lab License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
