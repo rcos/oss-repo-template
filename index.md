@@ -2,10 +2,10 @@
 ## Chris Carbone
 
 ## Bio
-![image](https://user-images.githubusercontent.com/10250444/170726051-1bf14434-4e94-4e69-9042-d6bca43fc64e.png)
-(( Put a little bit about yourself here! Also include a photo. ))
+![Headshot_S2021_square_crop -small](https://user-images.githubusercontent.com/10250444/170727045-5e07cf56-fd86-49b0-af25-3e97aef5d599.jpg)
+Computer Science, Physics 2022
 
-## Discord:
+Discord:
 xyrothyl#8351
 
 ## Lab Reports
